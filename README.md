@@ -24,3 +24,4 @@
 ### 总结
 >>整体感觉还行，但是由于本地IP地址的变化导致时有时无的连接中断情况还要以后去改，暂时还不知道怎么设置固定ip地址又不影响上网，所以各位是看不到我的链接了运气好的话可以[点击这里试试](https://salamander.imdo.co/)<br>
 >>不过我在microsoft azure上新建了一个nopcommerce网页，如果感兴趣的话可以[点击此处浏览](https://nopcom.chinacloudsites.cn)<br>
+>>有问题可以联系邮箱`stan142857@gmail.com`.
