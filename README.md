@@ -23,7 +23,7 @@
 >>将nopcommerce放到iis上后，基本就可以在内网访问了，但是想要外网访问的话，还需要做一下内网穿透工作。<br>
 >>在这里我使用的花生壳内网穿透，需要注意的是设置里面需要注意IP地址。设置为动态的话以后就要随着网络的变更而手动更改，设置成静态的话就无法连接网络。<br>
 #### 总结
->>整体感觉还行，但是由于本地IP地址的变化导致时有时无的连接中断情况还要以后去改，暂时还不知道怎么设置固定ip地址又不影响上网，所以各位是看不到我的链接了运气好的话可以[点击这里试试](https://salamander.imdo.co/),文件在此处，可以[点击下载](https://pan.baidu.com/s/1HKPFsTvrWvsxL6oHIpaIgw).<br>
+>>整体感觉还行，但是由于本地IP地址的变化导致时有时无的连接中断情况还要以后去改，暂时还不知道怎么设置固定ip地址又不影响上网，所以各位是看不到我的链接了运气好的话可以[点击这里试试](https://salamander.imdo.co/) , 文件在此处，可以[点击下载](https://pan.baidu.com/s/1HKPFsTvrWvsxL6oHIpaIgw).<br>
 >>不过我在microsoft azure上新建了一个nopcommerce网页，如果感兴趣的话可以[点击此处浏览](https://nopcom.chinacloudsites.cn)<br>
 >>有问题可以联系邮箱`stan142857@gmail.com`.<br>
 ## 2.问题与解决
