@@ -1,6 +1,8 @@
 # moon
 ## WYSIWYG
-## 1.平台`搭建`与`发布`
+# 1.平台`搭建`与`发布`
+
+## `nopcommerce`
 
 今天完成了nopcommerce购物平台的`基础搭建`与`发布`，趁这个时间做一下复盘工作
 
@@ -45,9 +47,27 @@ iis 内选中网站，在nopcommerce_3.20_nosource主页内双击目录浏览，
 
 有问题可以联系邮箱`stan142857@gmail.com`.<br>
 
+# `umbraco`
+
+今天完成了umbraco新闻网站的制作, 当然也是在[博客内](https://www.cnblogs.com/haijd/p/Umbraco-Getting-Started-7.html)找到的为数不多的教程, 虽然是手抄了一遍, 但是也是很多麻烦, 见笑. 现在在这里对umbraco的搭建做一下复盘工作
+
+#### 准备工具
+* visual studio
+* UmbracoCms.7.13.1
+
+#### 搭建`UmbracoCms.7.13.1`
+
+想要下载的话可以[点击下载](https://github.com/stannauyiel/moon/tree/master/UmbracoCms.7.13.1_%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%88%B6%E4%BD%9C)我已经做好的文件, 使用visual studio打开网站即可.
+
+如果想从头开始做, 可以进入官网下载文件, 有云端文件, 但是由于经费问题所以只能托管在本机上, 无语的是wifi每隔一段时间断一次, 所以不打算做外网连接了.
+
+下载完成打开登陆都没什么问题, 了解 umbraco 的结构以及使用规则是重点.
+
+差不多就这样...有问题记得联络我的邮箱
+
 ## 2.问题与解决
 
-### 问题一 : 图片加载延迟<br>
+### 问题一 : nopcommerce 图片加载延迟<br>
 
  `外网进入`，加载延迟<br><img src="https://github.com/stannauyiel/moon/blob/master/pictures/High%20delay%2C%20unable%20to%20load.png" width="475" height="250"/><br>
 
