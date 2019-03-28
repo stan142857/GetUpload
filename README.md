@@ -41,9 +41,7 @@ iis 内选中网站，在nopcommerce_3.20_nosource主页内双击目录浏览，
 
 #### 总结
 
-整体感觉还行，但是由于本地IP地址的变化导致时有时无的连接中断情况还要以后去改，暂时还不知道怎么设置固定ip地址又不影响上网，所以各位是看不到我的链接了运气好的话可以[点击这里试试](https://salamander.imdo.co/) , 文件在此处，可以[点击下载](https://pan.baidu.com/s/1HKPFsTvrWvsxL6oHIpaIgw).<br>
-
-不过我在microsoft azure上新建了一个nopcommerce网页，如果感兴趣的话可以[点击此处浏览](https://nopcom.chinacloudsites.cn),已失效。<br>
+整体感觉还行，今天总算完成了固定IP地址的设定，还不错，把IP地址设置为`127.0.0.1`就可以不用那么繁琐的去修改了，下次只需要在电脑商直接运行`花生壳`就可以开启网站服务，个人测试用花生壳的话足够了，如果想看看成果，可以[点击这里试试](https://salamander.imdo.co/) , 文件在此处，可以[点击下载](https://pan.baidu.com/s/1HKPFsTvrWvsxL6oHIpaIgw).<br>
 
 有问题可以联系邮箱`stan142857@gmail.com`.<br>
 
