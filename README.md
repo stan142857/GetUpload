@@ -58,6 +58,8 @@ iis 内选中网站，在nopcommerce_3.20_nosource主页内双击目录浏览，
 
 下载完成打开登陆都没什么问题, 了解 umbraco 的结构以及使用规则是重点.
 
+操作界面进入方式：http://localhost:xxxx/umbraco#/umbraco
+
 ### 有问题可以联系邮箱`stan142857@gmail.com`.<br>
 
 ## 2.问题与解决
