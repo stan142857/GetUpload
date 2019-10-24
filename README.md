@@ -4,7 +4,7 @@
 
 ## 通用:发布网站
 
-将nopcommerce放到iis上后，基本就可以在内网访问了，但是想要外网访问的话，还需要做一下内网穿透工作。<br>
+将网站放到iis上后，基本就可以在内网访问了，但是想要外网访问的话，还需要做一下内网穿透工作。<br>
 
 至于发布时候的iis各属性设置，参考[此处](https://mp.weixin.qq.com/s?__biz=MzAxMTMxMDQ3Mw==&mid=2660104885&idx=1&sn=5ef8884c25f5c7d8c3ac32f5cf80c975&chksm=803a5e53b74dd7451fe0738fd51480450f1a1e8ceaf851fa370a7a46e68e04a955b525b193cc&mpshare=1&scene=23&srcid=#rd)
 ## `nopcommerce`
