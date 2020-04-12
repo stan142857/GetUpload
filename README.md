@@ -71,4 +71,4 @@ iis 内选中网站，在nopcommerce_3.20_nosource主页内双击目录浏览，
 
 `本地查看`，正常加载<br>
 <img src="https://github.com/stannauyiel/moon/blob/master/pictures/Images_of_normal.png" width="475" height="250"/><br>
-* 解决：[点击以查看解决方案](https://www.cnblogs.com/EntityFramework/articles/2918510.html)，此内容比较多，需要整理<br>
+* 解决：[点击以查看解决方案](https://www.cnblogs.com/EntityFramework/articles/2918510.html)，此内容较多，需要整理<br>
